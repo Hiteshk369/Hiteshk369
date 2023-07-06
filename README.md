@@ -5,9 +5,9 @@ Developer
 ---------
 
 * 🌍  I'm based in Hyderabad, India
-* 🖥️  See my portfolio at portfolio-next-js-hiteshk369.vercel.app
+* 🖥️  See my portfolio at portfolio-hiteshk369.vercel.app
 * ✉️  You can contact me at [parchahiteshkumar123@gmail.com](mailto:parchahiteshkumar123@gmail.com)
-* 🧠  I'm learning React-Native
+* 🧠  I'm learning Typescript 
 
 ### Skills
 

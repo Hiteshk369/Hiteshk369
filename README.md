@@ -8,7 +8,7 @@ A Full Stack Developer
 * 🖥️  See my portfolio at [MyPortfolio](http://portfolio-hiteshk369.vercel.app/)
 * ✉️  You can contact me at [parchahiteshkumar123@gmail.com](mailto:parchahiteshkumar123@gmail.com)
 * 🚀  I'm currently working on [Ecommerce](http://github.com/Hiteshk369/Ecommerce)
-* 🧠  I'm learning Typescipt
+* 🧠  I'm learning Microservices
 * ⚡  I'm Batman
 
 ### Skills
